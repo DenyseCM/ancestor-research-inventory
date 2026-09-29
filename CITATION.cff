@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use or build on the Ancestor Research Inventory format, please cite it as below."
+title: "Ancestor Research Inventory (ARI): Specification"
+version: "1.0.0"
+date-released: "2026-09-29"
+license: CC-BY-4.0
+url: "https://chroniclemakers.com/ancestor-research-inventory/"
+authors:
+  - family-names: Allen
+    given-names: Denyse
+    affiliation: "Chronicle Makers (PA Ancestors LLC)"
+keywords:
+  - family history
+  - research report format
+  - ancestor research inventory
+  - markdown
+abstract: >-
+  A plain-file report format that holds everything found on one ancestor
+  in seven sections in fixed order: Index, Timeline, Sources, Conflicts,
+  Research log, Research narrative, and Research Quality Check.
